@@ -1,6 +1,12 @@
 .baggrund{
 position: relative;
+<<<<<<< HEAD
+width: 1000px;
+height: 1000px; 
+color: rgb(9, 7, 53);
+=======
 width: 100px;
 height: 100px; 
 background-color: rgb(9, 7, 53);
+>>>>>>> c342fd8bdea3bd06b8e56c439f35f872cd41bb04
 }
