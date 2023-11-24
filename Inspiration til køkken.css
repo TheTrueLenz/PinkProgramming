@@ -1,0 +1,34 @@
+@media (min-width: 430px) and (min-height: 932px) {
+body {background-color: rgb(93,93,122);}
+
+.image { /*billederne ligger allesammen i den samme div klasse
+         på den måde er det nemmere at rykke alle i stedet
+         for kun en */
+position: relative;
+margin-top: 900px; /*rykker billederne ned på siden*/
+margin-bottom: -870px; /*rykker billederne ned, 
+                       så der kommer mindre afstand*/}
+
+                       .produkter {
+                        position: relative;
+                        font-size: 20px;
+                        margin-bottom: 20px;
+                        }
+
+                        .overskrift123 {
+                        position: relative;
+                        top: 1000px;
+                        font-size: 20px;
+                        left: 5px;
+                        color: white;}
+.indhold{
+position: absolute;
+margin: 5%;
+padding: 5%;}
+
+.køkkenas{
+position: relative;
+font-size: 20px;
+top: 880px;
+color: white;
+}}
